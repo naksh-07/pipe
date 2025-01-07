@@ -1,0 +1,13 @@
+{
+    "name": "VPS-Like Codespace",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "features": {
+      "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    },
+    "postCreateCommand": "",
+    "forwardPorts": [6080],
+    "remoteUser": "codespace"
+  }
+  
