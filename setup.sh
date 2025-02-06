@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Variables
-POP_BINARY_URL="https://dl.pipecdn.app/v0.2.1/pop"
+POP_BINARY_URL="https://dl.pipecdn.app/v0.2.3/pop"
 POP_BINARY_NAME="pop"
 CACHE_DIR="download_cache"
 ENV_FILE="pop.env"
